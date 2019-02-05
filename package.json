@@ -23,7 +23,7 @@
     "babylon-walk": "^1.0.2",
     "browserslist": "^2.11.2",
     "chalk": "^2.1.0",
-    "chokidar": "^2.0.1",
+    "chokidar": "^2.0.2",
     "command-exists": "^1.2.2",
     "commander": "^2.11.0",
     "cross-spawn": "^6.0.4",
